@@ -1,0 +1,14 @@
+{
+  "name": "hungnc89/laravel-ckeditor",
+  "description": "Laravel package for CKEditor integration",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Hungnc89\\LaravelCKeditor\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0",
+    "illuminate/Laravel": "^10.0"
+  }
+}
